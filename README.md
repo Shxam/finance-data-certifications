@@ -1,1 +1,1 @@
-# finance-data-certifications
+Certifications
